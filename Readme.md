@@ -10,4 +10,4 @@ signal processing in the discrete mode
    and we used the "for" loop which will help us to
 carry out the mechanism until the end of the length of ‘t’
 * here is the execution of the code:
-  ![](C:/Lenovo/Users/Documents/worktdf/signal.png)
+  ![](C:/Lenovo/Users/Documents/work tdf/signal.png)
